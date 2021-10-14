@@ -7,6 +7,6 @@ python:
 install:
   - pip install -r requirements.txt
 
-# command(s) to run tests
+# command(s) to run tests yes
 script:
   - python -m unittest discover -v
